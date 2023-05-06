@@ -1,0 +1,52 @@
+
+body { background-color:rgb(173, 142, 112);
+
+}
+
+
+h1 { text-align: center;
+  font-family: sans-sarif Arial, Helvetica, sans-serif;
+  color: rgb(255, 254, 254)
+}
+
+
+  p {
+    font-family: sans-sarif Arial, Helvetica, sans-serif;
+  }
+  
+
+  .container {
+    text-align: center;
+    
+  margin-left: auto;
+  margin-right: auto;
+    width:600px;
+  font-family: sans-sarif Arial, Helvetica, sans-serif;
+    padding:5px;
+    background-color: rgb(255, 240, 240);
+    border-radius: 5px;
+    
+}
+
+ul {
+      list-style-type: none;
+      padding: 0;
+      margin: 0;
+  text-align: center;
+  font-family: sans-sarif Arial, Helvetica, sans-serif; 
+    }
+    li {
+      width: 200px;
+      padding: 5px;
+      margin: 5px;
+      background-color: rgb(199, 191, 185);
+      display: flex;
+    }
+    button {
+      margin: 10px;
+      border-radius: 5px;
+    }
+
+    input {
+      border-radius: 5px;
+    }
